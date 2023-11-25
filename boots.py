@@ -1,0 +1,2 @@
+def boots():
+    print('boots')
